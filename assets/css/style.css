@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.scroll {
+  background: url(../images/arrow52.png) center center no-repeat;
+}
+
+.header #btnRefresh {
+  background: url(../images/refresh.svg) center center no-repeat;
+}
+
+.header #btnInstall {
+  background: url(../images/install.svg) center center no-repeat;
+}
